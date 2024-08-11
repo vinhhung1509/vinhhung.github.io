@@ -1,0 +1,5 @@
+{
+  "title": "Sample JSON Data",
+  "description": "This is a sample JSON data file.",
+  "items": ["Item 1", "Item 2", "Item 3"]
+}
