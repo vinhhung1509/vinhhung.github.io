@@ -1,3 +1,7 @@
 tele: @hungtkc
 Một số Tool khác:
----Spam sms( spam tin nhắn, gọi): chuẩn bị ra mắt, ib admin để biết thêm thông tin
+Tool Auto View TikTok Chạy bằng python: https://www.mediafire.com/file/rshpixcgc9ye7ff/ViewTikPython.py/file
+Tool Auto View Tiktok Chạy trực tiếp trên máy tính: https://www.mediafire.com/file/9umkesciwkt7vcn/ToolViewByHung.zip/file
+Tool Auto View TikTok chạy bằng chrome phòng khi tool kia bị lỗi: Coming soon
+Tool Troll bạn bè auto bật sẽ + max volume: https://www.mediafire.com/file/2q58e2ukvfedexk/TrollNhac.zip/file
+Tool Spam sms (spam tin nhắn, cuộc gọi vào sđt): https://www.mediafire.com/file/gd32heoplcy6ira/AutoSpamSMS.py/file
