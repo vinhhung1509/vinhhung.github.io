@@ -1,5 +1,8 @@
 tele: @hungtkc
 Một số Tool khác:
+----NEW----
+Tool hack toàn bộ password của các trình duyệt(có thể thông qua usb): liên hệ trực tiếp admin
+----NEW----
 Tool Auto View TikTok Chạy bằng python: https://www.mediafire.com/file/rshpixcgc9ye7ff/ViewTikPython.py/file
 Tool Auto View Tiktok Chạy trực tiếp trên máy tính: https://www.mediafire.com/file/9umkesciwkt7vcn/ToolViewByHung.zip/file
 Tool Auto View TikTok chạy bằng chrome phòng khi tool kia bị lỗi: Coming soon
